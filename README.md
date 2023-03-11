@@ -27,7 +27,7 @@ git clone https://github.com/CYBER-JIHAD/free-enjoy
 
 cd free-enjoy
 
-python FREE.py
+python Enjoy.py
 
 
 
